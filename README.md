@@ -10,3 +10,6 @@ The notebook includes following steps:
 3)Upsample each image to 256×256, feed through ResNet50 then add a Flatten→BatchNorm→Dense(128)→Dropout→Dense(64)→Dropout→Softmax.
 
 4)Fine-tune for 10 epochs with RMSProp and sparse categorical crossentropy, boosting test accuracy to 94%.
+
+![image](https://github.com/user-attachments/assets/959d03cc-70dd-4926-b373-09c5a725ac9b)
+
