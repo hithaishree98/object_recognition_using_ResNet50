@@ -1,4 +1,4 @@
-# object_recognition_using_ResNet50
+# Object_Recognition_using_ResNet50
 
 This project demonstrates how to build and fine-tune a ResNet50-based classifier on the CIFAR-10 dataset.
 
